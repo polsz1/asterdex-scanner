@@ -1,0 +1,69 @@
+name: AsterDex Scanner
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # co godzinę (minuta 0 każdej godziny UTC)
+  workflow_dispatch:        # przycisk "Run workflow" w GitHub UI
+
+permissions:
+  contents: write           # potrzebne do git push (zapis history.csv)
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15     # kill po 15min jeśli coś się zawiesi
+
+    steps:
+      # 1. Pobierz repo (wraz z history.csv i OI cache z poprzedniego runu)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # 2. Python 3.11
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 3. Cache pip żeby nie pobierać za każdym razem
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ hashFiles('requirements.txt') }}
+
+      # 4. Zainstaluj zależności
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # 5. Uruchom skaner
+      #    --no-lighter można usunąć jeśli chcesz cross-check Lighter.xyz
+      - name: Run AsterDex Scanner
+        run: python skaner5.py --no-lighter
+        continue-on-error: true   # nie przerywaj workflow jeśli skaner zwróci błąd
+
+      # 6. Wygeneruj stronę HTML z wynikami
+      - name: Generate HTML report
+        run: python generate_report.py
+        continue-on-error: true
+
+      # 7. Commituj zaktualizowane pliki z powrotem do repo
+      #    Dzięki temu history.csv i OI cache są zachowane między runami
+      - name: Commit updated data files
+        run: |
+          git config user.email "asterdex-bot@github.com"
+          git config user.name "AsterDex Bot"
+          git add aster_history.csv aster_oi_cache.json lighter_markets_cache.json docs/index.html || true
+          git diff --staged --quiet || git commit -m "scan $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+        continue-on-error: true
+
+      # 8. Zachowaj snapshot CSV jako artifact (opcjonalne, widoczne w zakładce Actions)
+      - name: Upload scan snapshot
+        uses: actions/upload-artifact@v4
+        with:
+          name: scan-${{ github.run_number }}-${{ github.run_attempt }}
+          path: aster_scan_*.csv
+          retention-days: 7
+        continue-on-error: true
