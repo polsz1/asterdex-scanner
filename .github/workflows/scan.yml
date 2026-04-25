@@ -54,9 +54,16 @@ jobs:
         run: |
           git config user.email "asterdex-bot@github.com"
           git config user.name "AsterDex Bot"
-          git add aster_history.csv aster_oi_cache.json lighter_markets_cache.json docs/index.html || true
-          git diff --staged --quiet || git commit -m "scan $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
+          # Wymuś dodanie docs/index.html nawet jeśli git myśli że się nie zmienił
+          git add -f docs/index.html aster_history.csv aster_oi_cache.json lighter_markets_cache.json || true
+          # Sprawdź czy są zmiany do commitowania
+          if git diff --staged --quiet; then
+            echo "Brak zmian do commitowania — touch docs/index.html żeby wymusić"
+            touch docs/index.html
+            git add -f docs/index.html
+          fi
+          git commit -m "scan $(date -u '+%Y-%m-%d %H:%M UTC')" || true
+          git push || true
         continue-on-error: true
 
       # 8. Zachowaj snapshot CSV jako artifact (opcjonalne, widoczne w zakładce Actions)
