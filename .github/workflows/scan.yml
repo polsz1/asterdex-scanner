@@ -37,10 +37,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # 5. Uruchom skaner
-      #    --no-lighter można usunąć jeśli chcesz cross-check Lighter.xyz
+      # 5. Uruchom skaner z cross-checkiem Lighter.xyz
       - name: Run AsterDex Scanner
-        run: python skaner5.py --no-lighter
+        run: python skaner5.py
         continue-on-error: true   # nie przerywaj workflow jeśli skaner zwróci błąd
 
       # 6. Wygeneruj stronę HTML z wynikami
