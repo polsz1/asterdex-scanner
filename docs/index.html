@@ -1,1 +1,109 @@
- 
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AsterDex Scanner</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #0f172a;
+    color: #e2e8f0;
+    font-family: 'Courier New', monospace;
+    font-size: 13px;
+    padding: 20px;
+  }
+  h1 {
+    color: #67e8f9;
+    font-size: 20px;
+    margin-bottom: 4px;
+    letter-spacing: 2px;
+  }
+  .meta {
+    color: #475569;
+    font-size: 11px;
+    margin-bottom: 16px;
+  }
+  .meta span { color: #94a3b8; }
+  .legend {
+    background: #1e293b;
+    border: 1px solid #334155;
+    border-radius: 6px;
+    padding: 10px 14px;
+    margin-bottom: 16px;
+    font-size: 11px;
+    color: #64748b;
+    line-height: 1.8;
+  }
+  .legend b { color: #94a3b8; }
+  .table-wrap { overflow-x: auto; }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 1100px;
+  }
+  th {
+    background: #1e293b;
+    color: #64748b;
+    padding: 8px 10px;
+    text-align: left;
+    font-weight: normal;
+    border-bottom: 1px solid #334155;
+    white-space: nowrap;
+  }
+  td {
+    padding: 7px 10px;
+    border-bottom: 1px solid #1e293b;
+    white-space: nowrap;
+  }
+  tr:hover td { background: #1e293b; }
+  .footer {
+    margin-top: 20px;
+    color: #334155;
+    font-size: 11px;
+  }
+  .badge {
+    display: inline-block;
+    background: #1e293b;
+    border: 1px solid #334155;
+    border-radius: 4px;
+    padding: 2px 8px;
+    margin-right: 8px;
+    color: #94a3b8;
+  }
+</style>
+</head>
+<body>
+<h1>⚡ ASTERDEX VOLATILITY SCANNER</h1>
+<div class="meta">
+  Ostatni run: <span>2026-04-25 08:04 UTC</span> &nbsp;|&nbsp;
+  Strona odświeżona: <span>2026-04-25 08:04 UTC</span> &nbsp;|&nbsp;
+  Runów w historii: <span>1</span> &nbsp;|&nbsp;
+  Tokenów w tym runie: <span>1</span>
+</div>
+
+<div class="legend">
+  <b>Score</b> = aktywność tokena (vol spike + OI + cena + RSI + funding) &nbsp;|&nbsp;
+  <b>🐂 Bull% / 🐻 Bear%</b> = heurystyczny scoring kierunkowy (NIE statystyczne prawdopodobieństwo) &nbsp;|&nbsp;
+  <b>BTC corr</b> = korelacja z BTC (zielony = niezależny) &nbsp;|&nbsp;
+  <b>BULL-DIV</b> = cena↓ + OI↑ + RSI↑ (akumulacja) &nbsp;|&nbsp;
+  <b>SQ-BULL</b> = funding &lt; -0.05% (short squeeze risk) &nbsp;|&nbsp;
+  <b>BEAR-DIV</b> = cena↑ + OI↓ + RSI↓ (dystrybucja)
+</div>
+
+<div class="table-wrap">
+<table>
+  <thead><tr><th>#</th><th>Symbol</th><th>Setup</th><th>Price</th><th>24h%</th><th>4h%</th><th>Spike</th><th>OI Δ%</th><th>RSI</th><th>Fund%</th><th>Vol$M</th><th>Score</th><th>Δscore</th><th>🐂 Bull</th><th>🐻 Bear</th><th>Div</th><th>BTC corr</th></tr></thead>
+  <tbody>
+<tr><td style="color:#475569">1</td><td style="font-weight:bold;color:#e2e8f0">KOMAUSDT</td><td><span style="color:#4ade80;font-weight:bold">LONG</span></td><td style="color:#e2e8f0">0.008826</td><td><span style="color:#4ade80">+2.94%</span></td><td><span style="color:#4ade80">+0.51%</span></td><td><span style="color:#facc15;font-weight:bold">3.0x</span></td><td><span style="color:#334155">—</span></td><td><span style="color:#94a3b8">54</span></td><td style="color:#94a3b8">-0.012%</td><td style="color:#475569">0.016</td><td><span style="color:#e2e8f0;font-weight:bold">39</span></td><td><span style="color:#4ade80;font-weight:bold">▲+39</span></td><td><div style="display:flex;align-items:center;gap:6px"><div style="width:80px;height:10px;background:#1e293b;border-radius:4px;overflow:hidden"><div style="width:74%;height:100%;background:#4ade80;border-radius:4px"></div></div><span style="color:#94a3b8;font-size:11px">74%</span></div></td><td><div style="display:flex;align-items:center;gap:6px"><div style="width:80px;height:10px;background:#1e293b;border-radius:4px;overflow:hidden"><div style="width:12%;height:100%;background:#f87171;border-radius:4px"></div></div><span style="color:#94a3b8;font-size:11px">12%</span></div></td><td><span style="color:#334155">—</span></td><td><span style="color:#4ade80">0.03</span></td></tr>
+
+  </tbody>
+</table>
+</div>
+
+<div class="footer">
+  <p>Dane z AsterDex (fapi.asterdex.com) &nbsp;|&nbsp; Odświeżane automatycznie co godzinę przez GitHub Actions</p>
+  <p style="margin-top:6px;color:#1e293b">NIE jest to rekomendacja inwestycyjna. Handel kryptowalutami wiąże się z ryzykiem straty kapitału.</p>
+</div>
+</body>
+</html>
