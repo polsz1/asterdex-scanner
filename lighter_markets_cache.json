@@ -1,6 +1,150 @@
 {
-  "timestamp": 1777523903,
+  "timestamp": 1777534465,
   "markets": {
+    "ZEC": {
+      "market_index": 90,
+      "symbol": "ZEC",
+      "base": "ZEC",
+      "status": "active"
+    },
+    "USDKRW": {
+      "market_index": 105,
+      "symbol": "USDKRW",
+      "base": "USDKRW",
+      "status": "active"
+    },
+    "VVV": {
+      "market_index": 69,
+      "symbol": "VVV",
+      "base": "VVV",
+      "status": "active"
+    },
+    "LINEA": {
+      "market_index": 76,
+      "symbol": "LINEA",
+      "base": "LINEA",
+      "status": "active"
+    },
+    "ROBO": {
+      "market_index": 149,
+      "symbol": "ROBO",
+      "base": "ROBO",
+      "status": "active"
+    },
+    "IWM": {
+      "market_index": 153,
+      "symbol": "IWM",
+      "base": "IWM",
+      "status": "active"
+    },
+    "BOTZ": {
+      "market_index": 154,
+      "symbol": "BOTZ",
+      "base": "BOTZ",
+      "status": "active"
+    },
+    "CHIP": {
+      "market_index": 163,
+      "symbol": "CHIP",
+      "base": "CHIP",
+      "status": "active"
+    },
+    "GMX": {
+      "market_index": 61,
+      "symbol": "GMX",
+      "base": "GMX",
+      "status": "active"
+    },
+    "WLD": {
+      "market_index": 6,
+      "symbol": "WLD",
+      "base": "WLD",
+      "status": "active"
+    },
+    "COIN": {
+      "market_index": 109,
+      "symbol": "COIN",
+      "base": "COIN",
+      "status": "active"
+    },
+    "APT": {
+      "market_index": 31,
+      "symbol": "APT",
+      "base": "APT",
+      "status": "active"
+    },
+    "BMNR": {
+      "market_index": 123,
+      "symbol": "BMNR",
+      "base": "BMNR",
+      "status": "active"
+    },
+    "HYUNDAIUSD": {
+      "market_index": 160,
+      "symbol": "HYUNDAIUSD",
+      "base": "HYUNDAIUSD",
+      "status": "active"
+    },
+    "WIF": {
+      "market_index": 5,
+      "symbol": "WIF",
+      "base": "WIF",
+      "status": "active"
+    },
+    "XRP": {
+      "market_index": 7,
+      "symbol": "XRP",
+      "base": "XRP",
+      "status": "active"
+    },
+    "WLFI": {
+      "market_index": 72,
+      "symbol": "WLFI",
+      "base": "WLFI",
+      "status": "active"
+    },
+    "USDCAD": {
+      "market_index": 100,
+      "symbol": "USDCAD",
+      "base": "USDCAD",
+      "status": "active"
+    },
+    "TSLA": {
+      "market_index": 112,
+      "symbol": "TSLA",
+      "base": "TSLA",
+      "status": "active"
+    },
+    "FOGO": {
+      "market_index": 124,
+      "symbol": "FOGO",
+      "base": "FOGO",
+      "status": "active"
+    },
+    "BRENTOIL": {
+      "market_index": 159,
+      "symbol": "BRENTOIL",
+      "base": "BRENTOIL",
+      "status": "active"
+    },
+    "UNI": {
+      "market_index": 30,
+      "symbol": "UNI",
+      "base": "UNI",
+      "status": "active"
+    },
+    "LTC": {
+      "market_index": 35,
+      "symbol": "LTC",
+      "base": "LTC",
+      "status": "active"
+    },
+    "ETHFI": {
+      "market_index": 64,
+      "symbol": "ETHFI",
+      "base": "ETHFI",
+      "status": "active"
+    },
     "AERO": {
       "market_index": 65,
       "symbol": "AERO",
@@ -839,150 +983,6 @@
       "market_index": 78,
       "symbol": "PYTH",
       "base": "PYTH",
-      "status": "active"
-    },
-    "ZEC": {
-      "market_index": 90,
-      "symbol": "ZEC",
-      "base": "ZEC",
-      "status": "active"
-    },
-    "USDKRW": {
-      "market_index": 105,
-      "symbol": "USDKRW",
-      "base": "USDKRW",
-      "status": "active"
-    },
-    "VVV": {
-      "market_index": 69,
-      "symbol": "VVV",
-      "base": "VVV",
-      "status": "active"
-    },
-    "LINEA": {
-      "market_index": 76,
-      "symbol": "LINEA",
-      "base": "LINEA",
-      "status": "active"
-    },
-    "ROBO": {
-      "market_index": 149,
-      "symbol": "ROBO",
-      "base": "ROBO",
-      "status": "active"
-    },
-    "IWM": {
-      "market_index": 153,
-      "symbol": "IWM",
-      "base": "IWM",
-      "status": "active"
-    },
-    "BOTZ": {
-      "market_index": 154,
-      "symbol": "BOTZ",
-      "base": "BOTZ",
-      "status": "active"
-    },
-    "CHIP": {
-      "market_index": 163,
-      "symbol": "CHIP",
-      "base": "CHIP",
-      "status": "active"
-    },
-    "GMX": {
-      "market_index": 61,
-      "symbol": "GMX",
-      "base": "GMX",
-      "status": "active"
-    },
-    "WLD": {
-      "market_index": 6,
-      "symbol": "WLD",
-      "base": "WLD",
-      "status": "active"
-    },
-    "COIN": {
-      "market_index": 109,
-      "symbol": "COIN",
-      "base": "COIN",
-      "status": "active"
-    },
-    "APT": {
-      "market_index": 31,
-      "symbol": "APT",
-      "base": "APT",
-      "status": "active"
-    },
-    "BMNR": {
-      "market_index": 123,
-      "symbol": "BMNR",
-      "base": "BMNR",
-      "status": "active"
-    },
-    "HYUNDAIUSD": {
-      "market_index": 160,
-      "symbol": "HYUNDAIUSD",
-      "base": "HYUNDAIUSD",
-      "status": "active"
-    },
-    "WIF": {
-      "market_index": 5,
-      "symbol": "WIF",
-      "base": "WIF",
-      "status": "active"
-    },
-    "XRP": {
-      "market_index": 7,
-      "symbol": "XRP",
-      "base": "XRP",
-      "status": "active"
-    },
-    "WLFI": {
-      "market_index": 72,
-      "symbol": "WLFI",
-      "base": "WLFI",
-      "status": "active"
-    },
-    "USDCAD": {
-      "market_index": 100,
-      "symbol": "USDCAD",
-      "base": "USDCAD",
-      "status": "active"
-    },
-    "TSLA": {
-      "market_index": 112,
-      "symbol": "TSLA",
-      "base": "TSLA",
-      "status": "active"
-    },
-    "FOGO": {
-      "market_index": 124,
-      "symbol": "FOGO",
-      "base": "FOGO",
-      "status": "active"
-    },
-    "BRENTOIL": {
-      "market_index": 159,
-      "symbol": "BRENTOIL",
-      "base": "BRENTOIL",
-      "status": "active"
-    },
-    "UNI": {
-      "market_index": 30,
-      "symbol": "UNI",
-      "base": "UNI",
-      "status": "active"
-    },
-    "LTC": {
-      "market_index": 35,
-      "symbol": "LTC",
-      "base": "LTC",
-      "status": "active"
-    },
-    "ETHFI": {
-      "market_index": 64,
-      "symbol": "ETHFI",
-      "base": "ETHFI",
       "status": "active"
     }
   }
