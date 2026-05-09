@@ -1,6 +1,84 @@
 {
-  "timestamp": 1778316540,
+  "timestamp": 1778321641,
   "markets": {
+    "DOLO": {
+      "market_index": 75,
+      "symbol": "DOLO",
+      "base": "DOLO",
+      "status": "active"
+    },
+    "INTC": {
+      "market_index": 137,
+      "symbol": "INTC",
+      "base": "INTC",
+      "status": "active"
+    },
+    "NATGAS": {
+      "market_index": 158,
+      "symbol": "NATGAS",
+      "base": "NATGAS",
+      "status": "active"
+    },
+    "ORCL": {
+      "market_index": 165,
+      "symbol": "ORCL",
+      "base": "ORCL",
+      "status": "active"
+    },
+    "BTC": {
+      "market_index": 1,
+      "symbol": "BTC",
+      "base": "BTC",
+      "status": "active"
+    },
+    "UNI": {
+      "market_index": 30,
+      "symbol": "UNI",
+      "base": "UNI",
+      "status": "active"
+    },
+    "MSFT": {
+      "market_index": 115,
+      "symbol": "MSFT",
+      "base": "MSFT",
+      "status": "active"
+    },
+    "SPY": {
+      "market_index": 128,
+      "symbol": "SPY",
+      "base": "SPY",
+      "status": "active"
+    },
+    "SNDK": {
+      "market_index": 139,
+      "symbol": "SNDK",
+      "base": "SNDK",
+      "status": "active"
+    },
+    "DIA": {
+      "market_index": 152,
+      "symbol": "DIA",
+      "base": "DIA",
+      "status": "active"
+    },
+    "BRENTOIL": {
+      "market_index": 159,
+      "symbol": "BRENTOIL",
+      "base": "BRENTOIL",
+      "status": "active"
+    },
+    "SOXX": {
+      "market_index": 169,
+      "symbol": "SOXX",
+      "base": "SOXX",
+      "status": "active"
+    },
+    "BERA": {
+      "market_index": 20,
+      "symbol": "BERA",
+      "base": "BERA",
+      "status": "active"
+    },
     "ZK": {
       "market_index": 56,
       "symbol": "ZK",
@@ -954,84 +1032,6 @@
       "symbol": "AI16Z",
       "base": "AI16Z",
       "status": "inactive"
-    },
-    "DOLO": {
-      "market_index": 75,
-      "symbol": "DOLO",
-      "base": "DOLO",
-      "status": "active"
-    },
-    "INTC": {
-      "market_index": 137,
-      "symbol": "INTC",
-      "base": "INTC",
-      "status": "active"
-    },
-    "NATGAS": {
-      "market_index": 158,
-      "symbol": "NATGAS",
-      "base": "NATGAS",
-      "status": "active"
-    },
-    "ORCL": {
-      "market_index": 165,
-      "symbol": "ORCL",
-      "base": "ORCL",
-      "status": "active"
-    },
-    "BTC": {
-      "market_index": 1,
-      "symbol": "BTC",
-      "base": "BTC",
-      "status": "active"
-    },
-    "UNI": {
-      "market_index": 30,
-      "symbol": "UNI",
-      "base": "UNI",
-      "status": "active"
-    },
-    "MSFT": {
-      "market_index": 115,
-      "symbol": "MSFT",
-      "base": "MSFT",
-      "status": "active"
-    },
-    "SPY": {
-      "market_index": 128,
-      "symbol": "SPY",
-      "base": "SPY",
-      "status": "active"
-    },
-    "SNDK": {
-      "market_index": 139,
-      "symbol": "SNDK",
-      "base": "SNDK",
-      "status": "active"
-    },
-    "DIA": {
-      "market_index": 152,
-      "symbol": "DIA",
-      "base": "DIA",
-      "status": "active"
-    },
-    "BRENTOIL": {
-      "market_index": 159,
-      "symbol": "BRENTOIL",
-      "base": "BRENTOIL",
-      "status": "active"
-    },
-    "SOXX": {
-      "market_index": 169,
-      "symbol": "SOXX",
-      "base": "SOXX",
-      "status": "active"
-    },
-    "BERA": {
-      "market_index": 20,
-      "symbol": "BERA",
-      "base": "BERA",
-      "status": "active"
     }
   }
 }
