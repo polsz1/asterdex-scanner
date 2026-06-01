@@ -1,78 +1,6 @@
 {
-  "timestamp": 1780288232,
+  "timestamp": 1780309646,
   "markets": {
-    "XPL": {
-      "market_index": 71,
-      "symbol": "XPL",
-      "base": "XPL",
-      "status": "active"
-    },
-    "H100": {
-      "market_index": 182,
-      "symbol": "H100",
-      "base": "H100",
-      "status": "active"
-    },
-    "1000BONK": {
-      "market_index": 18,
-      "symbol": "1000BONK",
-      "base": "1000BONK",
-      "status": "active"
-    },
-    "OP": {
-      "market_index": 55,
-      "symbol": "OP",
-      "base": "OP",
-      "status": "active"
-    },
-    "NEAR": {
-      "market_index": 10,
-      "symbol": "NEAR",
-      "base": "NEAR",
-      "status": "active"
-    },
-    "BRENTOIL": {
-      "market_index": 159,
-      "symbol": "BRENTOIL",
-      "base": "BRENTOIL",
-      "status": "active"
-    },
-    "EDGE": {
-      "market_index": 157,
-      "symbol": "EDGE",
-      "base": "EDGE",
-      "status": "active"
-    },
-    "SAMSUNGUSD": {
-      "market_index": 162,
-      "symbol": "SAMSUNGUSD",
-      "base": "SAMSUNGUSD",
-      "status": "active"
-    },
-    "EIGEN": {
-      "market_index": 49,
-      "symbol": "EIGEN",
-      "base": "EIGEN",
-      "status": "active"
-    },
-    "MET": {
-      "market_index": 95,
-      "symbol": "MET",
-      "base": "MET",
-      "status": "active"
-    },
-    "FOGO": {
-      "market_index": 124,
-      "symbol": "FOGO",
-      "base": "FOGO",
-      "status": "active"
-    },
-    "NZDUSD": {
-      "market_index": 107,
-      "symbol": "NZDUSD",
-      "base": "NZDUSD",
-      "status": "active"
-    },
     "ONDO": {
       "market_index": 38,
       "symbol": "ONDO",
@@ -1127,6 +1055,78 @@
       "market_index": 96,
       "symbol": "EURUSD",
       "base": "EURUSD",
+      "status": "active"
+    },
+    "XPL": {
+      "market_index": 71,
+      "symbol": "XPL",
+      "base": "XPL",
+      "status": "active"
+    },
+    "H100": {
+      "market_index": 182,
+      "symbol": "H100",
+      "base": "H100",
+      "status": "active"
+    },
+    "1000BONK": {
+      "market_index": 18,
+      "symbol": "1000BONK",
+      "base": "1000BONK",
+      "status": "active"
+    },
+    "OP": {
+      "market_index": 55,
+      "symbol": "OP",
+      "base": "OP",
+      "status": "active"
+    },
+    "NEAR": {
+      "market_index": 10,
+      "symbol": "NEAR",
+      "base": "NEAR",
+      "status": "active"
+    },
+    "BRENTOIL": {
+      "market_index": 159,
+      "symbol": "BRENTOIL",
+      "base": "BRENTOIL",
+      "status": "active"
+    },
+    "EDGE": {
+      "market_index": 157,
+      "symbol": "EDGE",
+      "base": "EDGE",
+      "status": "active"
+    },
+    "SAMSUNGUSD": {
+      "market_index": 162,
+      "symbol": "SAMSUNGUSD",
+      "base": "SAMSUNGUSD",
+      "status": "active"
+    },
+    "EIGEN": {
+      "market_index": 49,
+      "symbol": "EIGEN",
+      "base": "EIGEN",
+      "status": "active"
+    },
+    "MET": {
+      "market_index": 95,
+      "symbol": "MET",
+      "base": "MET",
+      "status": "active"
+    },
+    "FOGO": {
+      "market_index": 124,
+      "symbol": "FOGO",
+      "base": "FOGO",
+      "status": "active"
+    },
+    "NZDUSD": {
+      "market_index": 107,
+      "symbol": "NZDUSD",
+      "base": "NZDUSD",
       "status": "active"
     }
   }
