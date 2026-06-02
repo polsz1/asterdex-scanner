@@ -1,6 +1,78 @@
 {
-  "timestamp": 1780391694,
+  "timestamp": 1780409437,
   "markets": {
+    "1000PEPE": {
+      "market_index": 4,
+      "symbol": "1000PEPE",
+      "base": "1000PEPE",
+      "status": "active"
+    },
+    "GOOGL": {
+      "market_index": 116,
+      "symbol": "GOOGL",
+      "base": "GOOGL",
+      "status": "active"
+    },
+    "XPT": {
+      "market_index": 147,
+      "symbol": "XPT",
+      "base": "XPT",
+      "status": "active"
+    },
+    "AMD": {
+      "market_index": 138,
+      "symbol": "AMD",
+      "base": "AMD",
+      "status": "active"
+    },
+    "EIGEN": {
+      "market_index": 49,
+      "symbol": "EIGEN",
+      "base": "EIGEN",
+      "status": "active"
+    },
+    "MEGA": {
+      "market_index": 94,
+      "symbol": "MEGA",
+      "base": "MEGA",
+      "status": "active"
+    },
+    "USDCAD": {
+      "market_index": 100,
+      "symbol": "USDCAD",
+      "base": "USDCAD",
+      "status": "active"
+    },
+    "NMR": {
+      "market_index": 74,
+      "symbol": "NMR",
+      "base": "NMR",
+      "status": "active"
+    },
+    "CRV": {
+      "market_index": 36,
+      "symbol": "CRV",
+      "base": "CRV",
+      "status": "active"
+    },
+    "PLTR": {
+      "market_index": 111,
+      "symbol": "PLTR",
+      "base": "PLTR",
+      "status": "active"
+    },
+    "MAGS": {
+      "market_index": 155,
+      "symbol": "MAGS",
+      "base": "MAGS",
+      "status": "active"
+    },
+    "DASH": {
+      "market_index": 127,
+      "symbol": "DASH",
+      "base": "DASH",
+      "status": "active"
+    },
     "AVAX": {
       "market_index": 9,
       "symbol": "AVAX",
@@ -1061,78 +1133,6 @@
       "market_index": 121,
       "symbol": "CRCL",
       "base": "CRCL",
-      "status": "active"
-    },
-    "1000PEPE": {
-      "market_index": 4,
-      "symbol": "1000PEPE",
-      "base": "1000PEPE",
-      "status": "active"
-    },
-    "GOOGL": {
-      "market_index": 116,
-      "symbol": "GOOGL",
-      "base": "GOOGL",
-      "status": "active"
-    },
-    "XPT": {
-      "market_index": 147,
-      "symbol": "XPT",
-      "base": "XPT",
-      "status": "active"
-    },
-    "AMD": {
-      "market_index": 138,
-      "symbol": "AMD",
-      "base": "AMD",
-      "status": "active"
-    },
-    "EIGEN": {
-      "market_index": 49,
-      "symbol": "EIGEN",
-      "base": "EIGEN",
-      "status": "active"
-    },
-    "MEGA": {
-      "market_index": 94,
-      "symbol": "MEGA",
-      "base": "MEGA",
-      "status": "active"
-    },
-    "USDCAD": {
-      "market_index": 100,
-      "symbol": "USDCAD",
-      "base": "USDCAD",
-      "status": "active"
-    },
-    "NMR": {
-      "market_index": 74,
-      "symbol": "NMR",
-      "base": "NMR",
-      "status": "active"
-    },
-    "CRV": {
-      "market_index": 36,
-      "symbol": "CRV",
-      "base": "CRV",
-      "status": "active"
-    },
-    "PLTR": {
-      "market_index": 111,
-      "symbol": "PLTR",
-      "base": "PLTR",
-      "status": "active"
-    },
-    "MAGS": {
-      "market_index": 155,
-      "symbol": "MAGS",
-      "base": "MAGS",
-      "status": "active"
-    },
-    "DASH": {
-      "market_index": 127,
-      "symbol": "DASH",
-      "base": "DASH",
       "status": "active"
     }
   }
