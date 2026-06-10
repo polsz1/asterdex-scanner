@@ -1,36 +1,6 @@
 {
-  "timestamp": 1781064535,
+  "timestamp": 1781081711,
   "markets": {
-    "ETHFI": {
-      "market_index": 64,
-      "symbol": "ETHFI",
-      "base": "ETHFI",
-      "status": "active"
-    },
-    "STRK": {
-      "market_index": 104,
-      "symbol": "STRK",
-      "base": "STRK",
-      "status": "active"
-    },
-    "IBM": {
-      "market_index": 188,
-      "symbol": "IBM",
-      "base": "IBM",
-      "status": "active"
-    },
-    "VVV": {
-      "market_index": 69,
-      "symbol": "VVV",
-      "base": "VVV",
-      "status": "active"
-    },
-    "USDKRW": {
-      "market_index": 105,
-      "symbol": "USDKRW",
-      "base": "USDKRW",
-      "status": "active"
-    },
     "CC": {
       "market_index": 101,
       "symbol": "CC",
@@ -1163,6 +1133,36 @@
       "market_index": 130,
       "symbol": "SKR",
       "base": "SKR",
+      "status": "active"
+    },
+    "ETHFI": {
+      "market_index": 64,
+      "symbol": "ETHFI",
+      "base": "ETHFI",
+      "status": "active"
+    },
+    "STRK": {
+      "market_index": 104,
+      "symbol": "STRK",
+      "base": "STRK",
+      "status": "active"
+    },
+    "IBM": {
+      "market_index": 188,
+      "symbol": "IBM",
+      "base": "IBM",
+      "status": "active"
+    },
+    "VVV": {
+      "market_index": 69,
+      "symbol": "VVV",
+      "base": "VVV",
+      "status": "active"
+    },
+    "USDKRW": {
+      "market_index": 105,
+      "symbol": "USDKRW",
+      "base": "USDKRW",
       "status": "active"
     }
   }
