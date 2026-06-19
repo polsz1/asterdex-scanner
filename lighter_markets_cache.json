@@ -1,6 +1,342 @@
 {
-  "timestamp": 1781901917,
+  "timestamp": 1781907073,
   "markets": {
+    "CRV": {
+      "market_index": 36,
+      "symbol": "CRV",
+      "base": "CRV",
+      "status": "active"
+    },
+    "XPT": {
+      "market_index": 147,
+      "symbol": "XPT",
+      "base": "XPT",
+      "status": "active"
+    },
+    "WHEAT": {
+      "market_index": 170,
+      "symbol": "WHEAT",
+      "base": "WHEAT",
+      "status": "active"
+    },
+    "META": {
+      "market_index": 117,
+      "symbol": "META",
+      "base": "META",
+      "status": "active"
+    },
+    "BIRB": {
+      "market_index": 133,
+      "symbol": "BIRB",
+      "base": "BIRB",
+      "status": "inactive"
+    },
+    "DOT": {
+      "market_index": 11,
+      "symbol": "DOT",
+      "base": "DOT",
+      "status": "active"
+    },
+    "BOTZ": {
+      "market_index": 154,
+      "symbol": "BOTZ",
+      "base": "BOTZ",
+      "status": "active"
+    },
+    "ORCL": {
+      "market_index": 165,
+      "symbol": "ORCL",
+      "base": "ORCL",
+      "status": "active"
+    },
+    "VIRTUAL": {
+      "market_index": 41,
+      "symbol": "VIRTUAL",
+      "base": "VIRTUAL",
+      "status": "active"
+    },
+    "STRC": {
+      "market_index": 156,
+      "symbol": "STRC",
+      "base": "STRC",
+      "status": "active"
+    },
+    "TRX": {
+      "market_index": 43,
+      "symbol": "TRX",
+      "base": "TRX",
+      "status": "active"
+    },
+    "BMNR": {
+      "market_index": 123,
+      "symbol": "BMNR",
+      "base": "BMNR",
+      "status": "active"
+    },
+    "WLFI": {
+      "market_index": 72,
+      "symbol": "WLFI",
+      "base": "WLFI",
+      "status": "active"
+    },
+    "AVNT": {
+      "market_index": 82,
+      "symbol": "AVNT",
+      "base": "AVNT",
+      "status": "active"
+    },
+    "1000FLOKI": {
+      "market_index": 19,
+      "symbol": "1000FLOKI",
+      "base": "1000FLOKI",
+      "status": "active"
+    },
+    "ZRO": {
+      "market_index": 60,
+      "symbol": "ZRO",
+      "base": "ZRO",
+      "status": "active"
+    },
+    "USDJPY": {
+      "market_index": 98,
+      "symbol": "USDJPY",
+      "base": "USDJPY",
+      "status": "active"
+    },
+    "ONDO": {
+      "market_index": 38,
+      "symbol": "ONDO",
+      "base": "ONDO",
+      "status": "active"
+    },
+    "CRO": {
+      "market_index": 73,
+      "symbol": "CRO",
+      "base": "CRO",
+      "status": "active"
+    },
+    "BRENTOIL": {
+      "market_index": 159,
+      "symbol": "BRENTOIL",
+      "base": "BRENTOIL",
+      "status": "active"
+    },
+    "SAMSUNGUSD": {
+      "market_index": 162,
+      "symbol": "SAMSUNGUSD",
+      "base": "SAMSUNGUSD",
+      "status": "active"
+    },
+    "SPACEX": {
+      "market_index": 173,
+      "symbol": "SPACEX",
+      "base": "SPACEX",
+      "status": "inactive"
+    },
+    "PENDLE": {
+      "market_index": 37,
+      "symbol": "PENDLE",
+      "base": "PENDLE",
+      "status": "active"
+    },
+    "PENGU": {
+      "market_index": 47,
+      "symbol": "PENGU",
+      "base": "PENGU",
+      "status": "active"
+    },
+    "ARC": {
+      "market_index": 132,
+      "symbol": "ARC",
+      "base": "ARC",
+      "status": "active"
+    },
+    "PAXG": {
+      "market_index": 48,
+      "symbol": "PAXG",
+      "base": "PAXG",
+      "status": "active"
+    },
+    "AAPL": {
+      "market_index": 113,
+      "symbol": "AAPL",
+      "base": "AAPL",
+      "status": "active"
+    },
+    "STRK": {
+      "market_index": 104,
+      "symbol": "STRK",
+      "base": "STRK",
+      "status": "active"
+    },
+    "AI16Z": {
+      "market_index": 22,
+      "symbol": "AI16Z",
+      "base": "AI16Z",
+      "status": "inactive"
+    },
+    "DASH": {
+      "market_index": 127,
+      "symbol": "DASH",
+      "base": "DASH",
+      "status": "active"
+    },
+    "AVAX": {
+      "market_index": 9,
+      "symbol": "AVAX",
+      "base": "AVAX",
+      "status": "active"
+    },
+    "POL": {
+      "market_index": 14,
+      "symbol": "POL",
+      "base": "POL",
+      "status": "active"
+    },
+    "TRUMP": {
+      "market_index": 15,
+      "symbol": "TRUMP",
+      "base": "TRUMP",
+      "status": "active"
+    },
+    "DELL": {
+      "market_index": 187,
+      "symbol": "DELL",
+      "base": "DELL",
+      "status": "active"
+    },
+    "INTC": {
+      "market_index": 137,
+      "symbol": "INTC",
+      "base": "INTC",
+      "status": "active"
+    },
+    "FF": {
+      "market_index": 87,
+      "symbol": "FF",
+      "base": "FF",
+      "status": "active"
+    },
+    "SKR": {
+      "market_index": 130,
+      "symbol": "SKR",
+      "base": "SKR",
+      "status": "active"
+    },
+    "SKHYNIXUSD": {
+      "market_index": 161,
+      "symbol": "SKHYNIXUSD",
+      "base": "SKHYNIXUSD",
+      "status": "active"
+    },
+    "SKHYNIX": {
+      "market_index": 143,
+      "symbol": "SKHYNIX",
+      "base": "SKHYNIX",
+      "status": "inactive"
+    },
+    "BTC": {
+      "market_index": 1,
+      "symbol": "BTC",
+      "base": "BTC",
+      "status": "active"
+    },
+    "MRVL": {
+      "market_index": 174,
+      "symbol": "MRVL",
+      "base": "MRVL",
+      "status": "active"
+    },
+    "USDKRW": {
+      "market_index": 105,
+      "symbol": "USDKRW",
+      "base": "USDKRW",
+      "status": "active"
+    },
+    "DOLO": {
+      "market_index": 75,
+      "symbol": "DOLO",
+      "base": "DOLO",
+      "status": "active"
+    },
+    "DUSK": {
+      "market_index": 125,
+      "symbol": "DUSK",
+      "base": "DUSK",
+      "status": "inactive"
+    },
+    "IBM": {
+      "market_index": 188,
+      "symbol": "IBM",
+      "base": "IBM",
+      "status": "active"
+    },
+    "TTWO": {
+      "market_index": 179,
+      "symbol": "TTWO",
+      "base": "TTWO",
+      "status": "active"
+    },
+    "HBAR": {
+      "market_index": 59,
+      "symbol": "HBAR",
+      "base": "HBAR",
+      "status": "active"
+    },
+    "XMR": {
+      "market_index": 77,
+      "symbol": "XMR",
+      "base": "XMR",
+      "status": "active"
+    },
+    "ETHFI": {
+      "market_index": 64,
+      "symbol": "ETHFI",
+      "base": "ETHFI",
+      "status": "active"
+    },
+    "PLTR": {
+      "market_index": 111,
+      "symbol": "PLTR",
+      "base": "PLTR",
+      "status": "active"
+    },
+    "APEX": {
+      "market_index": 86,
+      "symbol": "APEX",
+      "base": "APEX",
+      "status": "active"
+    },
+    "SAMSUNG": {
+      "market_index": 140,
+      "symbol": "SAMSUNG",
+      "base": "SAMSUNG",
+      "status": "inactive"
+    },
+    "CRCL": {
+      "market_index": 121,
+      "symbol": "CRCL",
+      "base": "CRCL",
+      "status": "active"
+    },
+    "US100": {
+      "market_index": 181,
+      "symbol": "US100",
+      "base": "US100",
+      "status": "active"
+    },
+    "MU": {
+      "market_index": 164,
+      "symbol": "MU",
+      "base": "MU",
+      "status": "active"
+    },
+    "COIN": {
+      "market_index": 109,
+      "symbol": "COIN",
+      "base": "COIN",
+      "status": "active"
+    },
     "0G": {
       "market_index": 84,
       "symbol": "0G",
@@ -851,342 +1187,6 @@
       "market_index": 23,
       "symbol": "POPCAT",
       "base": "POPCAT",
-      "status": "active"
-    },
-    "CRV": {
-      "market_index": 36,
-      "symbol": "CRV",
-      "base": "CRV",
-      "status": "active"
-    },
-    "XPT": {
-      "market_index": 147,
-      "symbol": "XPT",
-      "base": "XPT",
-      "status": "active"
-    },
-    "WHEAT": {
-      "market_index": 170,
-      "symbol": "WHEAT",
-      "base": "WHEAT",
-      "status": "active"
-    },
-    "META": {
-      "market_index": 117,
-      "symbol": "META",
-      "base": "META",
-      "status": "active"
-    },
-    "BIRB": {
-      "market_index": 133,
-      "symbol": "BIRB",
-      "base": "BIRB",
-      "status": "inactive"
-    },
-    "DOT": {
-      "market_index": 11,
-      "symbol": "DOT",
-      "base": "DOT",
-      "status": "active"
-    },
-    "BOTZ": {
-      "market_index": 154,
-      "symbol": "BOTZ",
-      "base": "BOTZ",
-      "status": "active"
-    },
-    "ORCL": {
-      "market_index": 165,
-      "symbol": "ORCL",
-      "base": "ORCL",
-      "status": "active"
-    },
-    "VIRTUAL": {
-      "market_index": 41,
-      "symbol": "VIRTUAL",
-      "base": "VIRTUAL",
-      "status": "active"
-    },
-    "STRC": {
-      "market_index": 156,
-      "symbol": "STRC",
-      "base": "STRC",
-      "status": "active"
-    },
-    "TRX": {
-      "market_index": 43,
-      "symbol": "TRX",
-      "base": "TRX",
-      "status": "active"
-    },
-    "BMNR": {
-      "market_index": 123,
-      "symbol": "BMNR",
-      "base": "BMNR",
-      "status": "active"
-    },
-    "WLFI": {
-      "market_index": 72,
-      "symbol": "WLFI",
-      "base": "WLFI",
-      "status": "active"
-    },
-    "AVNT": {
-      "market_index": 82,
-      "symbol": "AVNT",
-      "base": "AVNT",
-      "status": "active"
-    },
-    "1000FLOKI": {
-      "market_index": 19,
-      "symbol": "1000FLOKI",
-      "base": "1000FLOKI",
-      "status": "active"
-    },
-    "ZRO": {
-      "market_index": 60,
-      "symbol": "ZRO",
-      "base": "ZRO",
-      "status": "active"
-    },
-    "USDJPY": {
-      "market_index": 98,
-      "symbol": "USDJPY",
-      "base": "USDJPY",
-      "status": "active"
-    },
-    "ONDO": {
-      "market_index": 38,
-      "symbol": "ONDO",
-      "base": "ONDO",
-      "status": "active"
-    },
-    "CRO": {
-      "market_index": 73,
-      "symbol": "CRO",
-      "base": "CRO",
-      "status": "active"
-    },
-    "BRENTOIL": {
-      "market_index": 159,
-      "symbol": "BRENTOIL",
-      "base": "BRENTOIL",
-      "status": "active"
-    },
-    "SAMSUNGUSD": {
-      "market_index": 162,
-      "symbol": "SAMSUNGUSD",
-      "base": "SAMSUNGUSD",
-      "status": "active"
-    },
-    "SPACEX": {
-      "market_index": 173,
-      "symbol": "SPACEX",
-      "base": "SPACEX",
-      "status": "inactive"
-    },
-    "PENDLE": {
-      "market_index": 37,
-      "symbol": "PENDLE",
-      "base": "PENDLE",
-      "status": "active"
-    },
-    "PENGU": {
-      "market_index": 47,
-      "symbol": "PENGU",
-      "base": "PENGU",
-      "status": "active"
-    },
-    "ARC": {
-      "market_index": 132,
-      "symbol": "ARC",
-      "base": "ARC",
-      "status": "active"
-    },
-    "PAXG": {
-      "market_index": 48,
-      "symbol": "PAXG",
-      "base": "PAXG",
-      "status": "active"
-    },
-    "AAPL": {
-      "market_index": 113,
-      "symbol": "AAPL",
-      "base": "AAPL",
-      "status": "active"
-    },
-    "STRK": {
-      "market_index": 104,
-      "symbol": "STRK",
-      "base": "STRK",
-      "status": "active"
-    },
-    "AI16Z": {
-      "market_index": 22,
-      "symbol": "AI16Z",
-      "base": "AI16Z",
-      "status": "inactive"
-    },
-    "DASH": {
-      "market_index": 127,
-      "symbol": "DASH",
-      "base": "DASH",
-      "status": "active"
-    },
-    "AVAX": {
-      "market_index": 9,
-      "symbol": "AVAX",
-      "base": "AVAX",
-      "status": "active"
-    },
-    "POL": {
-      "market_index": 14,
-      "symbol": "POL",
-      "base": "POL",
-      "status": "active"
-    },
-    "TRUMP": {
-      "market_index": 15,
-      "symbol": "TRUMP",
-      "base": "TRUMP",
-      "status": "active"
-    },
-    "DELL": {
-      "market_index": 187,
-      "symbol": "DELL",
-      "base": "DELL",
-      "status": "active"
-    },
-    "INTC": {
-      "market_index": 137,
-      "symbol": "INTC",
-      "base": "INTC",
-      "status": "active"
-    },
-    "FF": {
-      "market_index": 87,
-      "symbol": "FF",
-      "base": "FF",
-      "status": "active"
-    },
-    "SKR": {
-      "market_index": 130,
-      "symbol": "SKR",
-      "base": "SKR",
-      "status": "active"
-    },
-    "SKHYNIXUSD": {
-      "market_index": 161,
-      "symbol": "SKHYNIXUSD",
-      "base": "SKHYNIXUSD",
-      "status": "active"
-    },
-    "SKHYNIX": {
-      "market_index": 143,
-      "symbol": "SKHYNIX",
-      "base": "SKHYNIX",
-      "status": "inactive"
-    },
-    "BTC": {
-      "market_index": 1,
-      "symbol": "BTC",
-      "base": "BTC",
-      "status": "active"
-    },
-    "MRVL": {
-      "market_index": 174,
-      "symbol": "MRVL",
-      "base": "MRVL",
-      "status": "active"
-    },
-    "USDKRW": {
-      "market_index": 105,
-      "symbol": "USDKRW",
-      "base": "USDKRW",
-      "status": "active"
-    },
-    "DOLO": {
-      "market_index": 75,
-      "symbol": "DOLO",
-      "base": "DOLO",
-      "status": "active"
-    },
-    "DUSK": {
-      "market_index": 125,
-      "symbol": "DUSK",
-      "base": "DUSK",
-      "status": "inactive"
-    },
-    "IBM": {
-      "market_index": 188,
-      "symbol": "IBM",
-      "base": "IBM",
-      "status": "active"
-    },
-    "TTWO": {
-      "market_index": 179,
-      "symbol": "TTWO",
-      "base": "TTWO",
-      "status": "active"
-    },
-    "HBAR": {
-      "market_index": 59,
-      "symbol": "HBAR",
-      "base": "HBAR",
-      "status": "active"
-    },
-    "XMR": {
-      "market_index": 77,
-      "symbol": "XMR",
-      "base": "XMR",
-      "status": "active"
-    },
-    "ETHFI": {
-      "market_index": 64,
-      "symbol": "ETHFI",
-      "base": "ETHFI",
-      "status": "active"
-    },
-    "PLTR": {
-      "market_index": 111,
-      "symbol": "PLTR",
-      "base": "PLTR",
-      "status": "active"
-    },
-    "APEX": {
-      "market_index": 86,
-      "symbol": "APEX",
-      "base": "APEX",
-      "status": "active"
-    },
-    "SAMSUNG": {
-      "market_index": 140,
-      "symbol": "SAMSUNG",
-      "base": "SAMSUNG",
-      "status": "inactive"
-    },
-    "CRCL": {
-      "market_index": 121,
-      "symbol": "CRCL",
-      "base": "CRCL",
-      "status": "active"
-    },
-    "US100": {
-      "market_index": 181,
-      "symbol": "US100",
-      "base": "US100",
-      "status": "active"
-    },
-    "MU": {
-      "market_index": 164,
-      "symbol": "MU",
-      "base": "MU",
-      "status": "active"
-    },
-    "COIN": {
-      "market_index": 109,
-      "symbol": "COIN",
-      "base": "COIN",
       "status": "active"
     }
   }
