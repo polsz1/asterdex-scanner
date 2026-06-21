@@ -1,78 +1,6 @@
 {
-  "timestamp": 1782076966,
+  "timestamp": 1782084127,
   "markets": {
-    "EURUSD": {
-      "market_index": 96,
-      "symbol": "EURUSD",
-      "base": "EURUSD",
-      "status": "active"
-    },
-    "BCH": {
-      "market_index": 58,
-      "symbol": "BCH",
-      "base": "BCH",
-      "status": "active"
-    },
-    "LAUNCHCOIN": {
-      "market_index": 54,
-      "symbol": "LAUNCHCOIN",
-      "base": "LAUNCHCOIN",
-      "status": "inactive"
-    },
-    "AERO": {
-      "market_index": 65,
-      "symbol": "AERO",
-      "base": "AERO",
-      "status": "active"
-    },
-    "NBIS": {
-      "market_index": 189,
-      "symbol": "NBIS",
-      "base": "NBIS",
-      "status": "active"
-    },
-    "BIO": {
-      "market_index": 171,
-      "symbol": "BIO",
-      "base": "BIO",
-      "status": "active"
-    },
-    "GRAM": {
-      "market_index": 12,
-      "symbol": "GRAM",
-      "base": "GRAM",
-      "status": "active"
-    },
-    "1000BONK": {
-      "market_index": 18,
-      "symbol": "1000BONK",
-      "base": "1000BONK",
-      "status": "active"
-    },
-    "US500": {
-      "market_index": 180,
-      "symbol": "US500",
-      "base": "US500",
-      "status": "active"
-    },
-    "AZTEC": {
-      "market_index": 144,
-      "symbol": "AZTEC",
-      "base": "AZTEC",
-      "status": "active"
-    },
-    "SYRUP": {
-      "market_index": 44,
-      "symbol": "SYRUP",
-      "base": "SYRUP",
-      "status": "active"
-    },
-    "OP": {
-      "market_index": 55,
-      "symbol": "OP",
-      "base": "OP",
-      "status": "active"
-    },
     "MYX": {
       "market_index": 80,
       "symbol": "MYX",
@@ -1187,6 +1115,78 @@
       "market_index": 84,
       "symbol": "0G",
       "base": "0G",
+      "status": "active"
+    },
+    "EURUSD": {
+      "market_index": 96,
+      "symbol": "EURUSD",
+      "base": "EURUSD",
+      "status": "active"
+    },
+    "BCH": {
+      "market_index": 58,
+      "symbol": "BCH",
+      "base": "BCH",
+      "status": "active"
+    },
+    "LAUNCHCOIN": {
+      "market_index": 54,
+      "symbol": "LAUNCHCOIN",
+      "base": "LAUNCHCOIN",
+      "status": "inactive"
+    },
+    "AERO": {
+      "market_index": 65,
+      "symbol": "AERO",
+      "base": "AERO",
+      "status": "active"
+    },
+    "NBIS": {
+      "market_index": 189,
+      "symbol": "NBIS",
+      "base": "NBIS",
+      "status": "active"
+    },
+    "BIO": {
+      "market_index": 171,
+      "symbol": "BIO",
+      "base": "BIO",
+      "status": "active"
+    },
+    "GRAM": {
+      "market_index": 12,
+      "symbol": "GRAM",
+      "base": "GRAM",
+      "status": "active"
+    },
+    "1000BONK": {
+      "market_index": 18,
+      "symbol": "1000BONK",
+      "base": "1000BONK",
+      "status": "active"
+    },
+    "US500": {
+      "market_index": 180,
+      "symbol": "US500",
+      "base": "US500",
+      "status": "active"
+    },
+    "AZTEC": {
+      "market_index": 144,
+      "symbol": "AZTEC",
+      "base": "AZTEC",
+      "status": "active"
+    },
+    "SYRUP": {
+      "market_index": 44,
+      "symbol": "SYRUP",
+      "base": "SYRUP",
+      "status": "active"
+    },
+    "OP": {
+      "market_index": 55,
+      "symbol": "OP",
+      "base": "OP",
       "status": "active"
     }
   }
