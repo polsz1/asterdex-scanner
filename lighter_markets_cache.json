@@ -1,30 +1,6 @@
 {
-  "timestamp": 1783063729,
+  "timestamp": 1783075457,
   "markets": {
-    "1000TOSHI": {
-      "market_index": 81,
-      "symbol": "1000TOSHI",
-      "base": "1000TOSHI",
-      "status": "inactive"
-    },
-    "2Z": {
-      "market_index": 88,
-      "symbol": "2Z",
-      "base": "2Z",
-      "status": "active"
-    },
-    "USDCAD": {
-      "market_index": 100,
-      "symbol": "USDCAD",
-      "base": "USDCAD",
-      "status": "active"
-    },
-    "LTC": {
-      "market_index": 35,
-      "symbol": "LTC",
-      "base": "LTC",
-      "status": "active"
-    },
     "DYDX": {
       "market_index": 62,
       "symbol": "DYDX",
@@ -1283,6 +1259,30 @@
       "market_index": 111,
       "symbol": "PLTR",
       "base": "PLTR",
+      "status": "active"
+    },
+    "1000TOSHI": {
+      "market_index": 81,
+      "symbol": "1000TOSHI",
+      "base": "1000TOSHI",
+      "status": "inactive"
+    },
+    "2Z": {
+      "market_index": 88,
+      "symbol": "2Z",
+      "base": "2Z",
+      "status": "active"
+    },
+    "USDCAD": {
+      "market_index": 100,
+      "symbol": "USDCAD",
+      "base": "USDCAD",
+      "status": "active"
+    },
+    "LTC": {
+      "market_index": 35,
+      "symbol": "LTC",
+      "base": "LTC",
       "status": "active"
     }
   }
