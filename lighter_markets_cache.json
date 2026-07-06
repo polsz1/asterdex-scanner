@@ -1,6 +1,54 @@
 {
-  "timestamp": 1783315110,
+  "timestamp": 1783334839,
   "markets": {
+    "EDEN": {
+      "market_index": 89,
+      "symbol": "EDEN",
+      "base": "EDEN",
+      "status": "active"
+    },
+    "MRVL": {
+      "market_index": 174,
+      "symbol": "MRVL",
+      "base": "MRVL",
+      "status": "active"
+    },
+    "AMD": {
+      "market_index": 138,
+      "symbol": "AMD",
+      "base": "AMD",
+      "status": "active"
+    },
+    "URA": {
+      "market_index": 150,
+      "symbol": "URA",
+      "base": "URA",
+      "status": "active"
+    },
+    "ZRO": {
+      "market_index": 60,
+      "symbol": "ZRO",
+      "base": "ZRO",
+      "status": "active"
+    },
+    "NMR": {
+      "market_index": 74,
+      "symbol": "NMR",
+      "base": "NMR",
+      "status": "active"
+    },
+    "ARM": {
+      "market_index": 206,
+      "symbol": "ARM",
+      "base": "ARM",
+      "status": "active"
+    },
+    "SOXX": {
+      "market_index": 169,
+      "symbol": "SOXX",
+      "base": "SOXX",
+      "status": "inactive"
+    },
     "STBL": {
       "market_index": 85,
       "symbol": "STBL",
@@ -1236,54 +1284,6 @@
       "symbol": "1000PEPE",
       "base": "1000PEPE",
       "status": "active"
-    },
-    "EDEN": {
-      "market_index": 89,
-      "symbol": "EDEN",
-      "base": "EDEN",
-      "status": "active"
-    },
-    "MRVL": {
-      "market_index": 174,
-      "symbol": "MRVL",
-      "base": "MRVL",
-      "status": "active"
-    },
-    "AMD": {
-      "market_index": 138,
-      "symbol": "AMD",
-      "base": "AMD",
-      "status": "active"
-    },
-    "URA": {
-      "market_index": 150,
-      "symbol": "URA",
-      "base": "URA",
-      "status": "active"
-    },
-    "ZRO": {
-      "market_index": 60,
-      "symbol": "ZRO",
-      "base": "ZRO",
-      "status": "active"
-    },
-    "NMR": {
-      "market_index": 74,
-      "symbol": "NMR",
-      "base": "NMR",
-      "status": "active"
-    },
-    "ARM": {
-      "market_index": 206,
-      "symbol": "ARM",
-      "base": "ARM",
-      "status": "active"
-    },
-    "SOXX": {
-      "market_index": 169,
-      "symbol": "SOXX",
-      "base": "SOXX",
-      "status": "inactive"
     }
   }
 }
