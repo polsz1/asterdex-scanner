@@ -1,96 +1,6 @@
 {
-  "timestamp": 1784118164,
+  "timestamp": 1784127591,
   "markets": {
-    "ETHFI": {
-      "market_index": 64,
-      "symbol": "ETHFI",
-      "base": "ETHFI",
-      "status": "active"
-    },
-    "APEX": {
-      "market_index": 86,
-      "symbol": "APEX",
-      "base": "APEX",
-      "status": "active"
-    },
-    "ENA": {
-      "market_index": 29,
-      "symbol": "ENA",
-      "base": "ENA",
-      "status": "active"
-    },
-    "LINEA": {
-      "market_index": 76,
-      "symbol": "LINEA",
-      "base": "LINEA",
-      "status": "active"
-    },
-    "MEGA": {
-      "market_index": 94,
-      "symbol": "MEGA",
-      "base": "MEGA",
-      "status": "active"
-    },
-    "LAUNCHCOIN": {
-      "market_index": 54,
-      "symbol": "LAUNCHCOIN",
-      "base": "LAUNCHCOIN",
-      "status": "inactive"
-    },
-    "CHIP": {
-      "market_index": 163,
-      "symbol": "CHIP",
-      "base": "CHIP",
-      "status": "active"
-    },
-    "APT": {
-      "market_index": 31,
-      "symbol": "APT",
-      "base": "APT",
-      "status": "active"
-    },
-    "JUP": {
-      "market_index": 26,
-      "symbol": "JUP",
-      "base": "JUP",
-      "status": "active"
-    },
-    "MORPHO": {
-      "market_index": 68,
-      "symbol": "MORPHO",
-      "base": "MORPHO",
-      "status": "active"
-    },
-    "1000PEPE": {
-      "market_index": 4,
-      "symbol": "1000PEPE",
-      "base": "1000PEPE",
-      "status": "active"
-    },
-    "ASTER": {
-      "market_index": 83,
-      "symbol": "ASTER",
-      "base": "ASTER",
-      "status": "active"
-    },
-    "BOTZ": {
-      "market_index": 154,
-      "symbol": "BOTZ",
-      "base": "BOTZ",
-      "status": "active"
-    },
-    "AI16Z": {
-      "market_index": 22,
-      "symbol": "AI16Z",
-      "base": "AI16Z",
-      "status": "inactive"
-    },
-    "RIVER": {
-      "market_index": 126,
-      "symbol": "RIVER",
-      "base": "RIVER",
-      "status": "active"
-    },
     "AXS": {
       "market_index": 131,
       "symbol": "AXS",
@@ -835,6 +745,12 @@
       "base": "WTI",
       "status": "active"
     },
+    "CXMT": {
+      "market_index": 217,
+      "symbol": "CXMT",
+      "base": "CXMT",
+      "status": "active"
+    },
     "CRV": {
       "market_index": 36,
       "symbol": "CRV",
@@ -1301,6 +1217,96 @@
       "market_index": 199,
       "symbol": "MINIMAX",
       "base": "MINIMAX",
+      "status": "active"
+    },
+    "ETHFI": {
+      "market_index": 64,
+      "symbol": "ETHFI",
+      "base": "ETHFI",
+      "status": "active"
+    },
+    "APEX": {
+      "market_index": 86,
+      "symbol": "APEX",
+      "base": "APEX",
+      "status": "active"
+    },
+    "ENA": {
+      "market_index": 29,
+      "symbol": "ENA",
+      "base": "ENA",
+      "status": "active"
+    },
+    "LINEA": {
+      "market_index": 76,
+      "symbol": "LINEA",
+      "base": "LINEA",
+      "status": "active"
+    },
+    "MEGA": {
+      "market_index": 94,
+      "symbol": "MEGA",
+      "base": "MEGA",
+      "status": "active"
+    },
+    "LAUNCHCOIN": {
+      "market_index": 54,
+      "symbol": "LAUNCHCOIN",
+      "base": "LAUNCHCOIN",
+      "status": "inactive"
+    },
+    "CHIP": {
+      "market_index": 163,
+      "symbol": "CHIP",
+      "base": "CHIP",
+      "status": "active"
+    },
+    "APT": {
+      "market_index": 31,
+      "symbol": "APT",
+      "base": "APT",
+      "status": "active"
+    },
+    "JUP": {
+      "market_index": 26,
+      "symbol": "JUP",
+      "base": "JUP",
+      "status": "active"
+    },
+    "MORPHO": {
+      "market_index": 68,
+      "symbol": "MORPHO",
+      "base": "MORPHO",
+      "status": "active"
+    },
+    "1000PEPE": {
+      "market_index": 4,
+      "symbol": "1000PEPE",
+      "base": "1000PEPE",
+      "status": "active"
+    },
+    "ASTER": {
+      "market_index": 83,
+      "symbol": "ASTER",
+      "base": "ASTER",
+      "status": "active"
+    },
+    "BOTZ": {
+      "market_index": 154,
+      "symbol": "BOTZ",
+      "base": "BOTZ",
+      "status": "active"
+    },
+    "AI16Z": {
+      "market_index": 22,
+      "symbol": "AI16Z",
+      "base": "AI16Z",
+      "status": "inactive"
+    },
+    "RIVER": {
+      "market_index": 126,
+      "symbol": "RIVER",
+      "base": "RIVER",
       "status": "active"
     }
   }
