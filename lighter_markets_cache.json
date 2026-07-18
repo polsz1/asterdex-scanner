@@ -1,6 +1,108 @@
 {
-  "timestamp": 1784361732,
+  "timestamp": 1784367975,
   "markets": {
+    "AAOI": {
+      "market_index": 207,
+      "symbol": "AAOI",
+      "base": "AAOI",
+      "status": "active"
+    },
+    "BIRB": {
+      "market_index": 133,
+      "symbol": "BIRB",
+      "base": "BIRB",
+      "status": "inactive"
+    },
+    "1000FLOKI": {
+      "market_index": 19,
+      "symbol": "1000FLOKI",
+      "base": "1000FLOKI",
+      "status": "active"
+    },
+    "KAITO": {
+      "market_index": 33,
+      "symbol": "KAITO",
+      "base": "KAITO",
+      "status": "active"
+    },
+    "POPMART": {
+      "market_index": 204,
+      "symbol": "POPMART",
+      "base": "POPMART",
+      "status": "active"
+    },
+    "USDJPY": {
+      "market_index": 98,
+      "symbol": "USDJPY",
+      "base": "USDJPY",
+      "status": "active"
+    },
+    "ETHFI": {
+      "market_index": 64,
+      "symbol": "ETHFI",
+      "base": "ETHFI",
+      "status": "active"
+    },
+    "AVAX": {
+      "market_index": 9,
+      "symbol": "AVAX",
+      "base": "AVAX",
+      "status": "active"
+    },
+    "ARC": {
+      "market_index": 132,
+      "symbol": "ARC",
+      "base": "ARC",
+      "status": "active"
+    },
+    "GRAM": {
+      "market_index": 12,
+      "symbol": "GRAM",
+      "base": "GRAM",
+      "status": "active"
+    },
+    "FIL": {
+      "market_index": 103,
+      "symbol": "FIL",
+      "base": "FIL",
+      "status": "active"
+    },
+    "STRC": {
+      "market_index": 156,
+      "symbol": "STRC",
+      "base": "STRC",
+      "status": "active"
+    },
+    "1000BONK": {
+      "market_index": 18,
+      "symbol": "1000BONK",
+      "base": "1000BONK",
+      "status": "active"
+    },
+    "DOT": {
+      "market_index": 11,
+      "symbol": "DOT",
+      "base": "DOT",
+      "status": "active"
+    },
+    "H100": {
+      "market_index": 182,
+      "symbol": "H100",
+      "base": "H100",
+      "status": "active"
+    },
+    "ROBO": {
+      "market_index": 149,
+      "symbol": "ROBO",
+      "base": "ROBO",
+      "status": "active"
+    },
+    "STRK": {
+      "market_index": 104,
+      "symbol": "STRK",
+      "base": "STRK",
+      "status": "active"
+    },
     "SOXX": {
       "market_index": 169,
       "symbol": "SOXX",
@@ -1205,108 +1307,6 @@
       "market_index": 108,
       "symbol": "HOOD",
       "base": "HOOD",
-      "status": "active"
-    },
-    "AAOI": {
-      "market_index": 207,
-      "symbol": "AAOI",
-      "base": "AAOI",
-      "status": "active"
-    },
-    "BIRB": {
-      "market_index": 133,
-      "symbol": "BIRB",
-      "base": "BIRB",
-      "status": "inactive"
-    },
-    "1000FLOKI": {
-      "market_index": 19,
-      "symbol": "1000FLOKI",
-      "base": "1000FLOKI",
-      "status": "active"
-    },
-    "KAITO": {
-      "market_index": 33,
-      "symbol": "KAITO",
-      "base": "KAITO",
-      "status": "active"
-    },
-    "POPMART": {
-      "market_index": 204,
-      "symbol": "POPMART",
-      "base": "POPMART",
-      "status": "active"
-    },
-    "USDJPY": {
-      "market_index": 98,
-      "symbol": "USDJPY",
-      "base": "USDJPY",
-      "status": "active"
-    },
-    "ETHFI": {
-      "market_index": 64,
-      "symbol": "ETHFI",
-      "base": "ETHFI",
-      "status": "active"
-    },
-    "AVAX": {
-      "market_index": 9,
-      "symbol": "AVAX",
-      "base": "AVAX",
-      "status": "active"
-    },
-    "ARC": {
-      "market_index": 132,
-      "symbol": "ARC",
-      "base": "ARC",
-      "status": "active"
-    },
-    "GRAM": {
-      "market_index": 12,
-      "symbol": "GRAM",
-      "base": "GRAM",
-      "status": "active"
-    },
-    "FIL": {
-      "market_index": 103,
-      "symbol": "FIL",
-      "base": "FIL",
-      "status": "active"
-    },
-    "STRC": {
-      "market_index": 156,
-      "symbol": "STRC",
-      "base": "STRC",
-      "status": "active"
-    },
-    "1000BONK": {
-      "market_index": 18,
-      "symbol": "1000BONK",
-      "base": "1000BONK",
-      "status": "active"
-    },
-    "DOT": {
-      "market_index": 11,
-      "symbol": "DOT",
-      "base": "DOT",
-      "status": "active"
-    },
-    "H100": {
-      "market_index": 182,
-      "symbol": "H100",
-      "base": "H100",
-      "status": "active"
-    },
-    "ROBO": {
-      "market_index": 149,
-      "symbol": "ROBO",
-      "base": "ROBO",
-      "status": "active"
-    },
-    "STRK": {
-      "market_index": 104,
-      "symbol": "STRK",
-      "base": "STRK",
       "status": "active"
     }
   }
