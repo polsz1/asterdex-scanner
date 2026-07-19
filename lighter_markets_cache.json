@@ -1,54 +1,6 @@
 {
-  "timestamp": 1784484240,
+  "timestamp": 1784489028,
   "markets": {
-    "BB": {
-      "market_index": 211,
-      "symbol": "BB",
-      "base": "BB",
-      "status": "active"
-    },
-    "USELESS": {
-      "market_index": 66,
-      "symbol": "USELESS",
-      "base": "USELESS",
-      "status": "active"
-    },
-    "DASH": {
-      "market_index": 127,
-      "symbol": "DASH",
-      "base": "DASH",
-      "status": "active"
-    },
-    "SPCX": {
-      "market_index": 194,
-      "symbol": "SPCX",
-      "base": "SPCX",
-      "status": "active"
-    },
-    "STRK": {
-      "market_index": 104,
-      "symbol": "STRK",
-      "base": "STRK",
-      "status": "active"
-    },
-    "0G": {
-      "market_index": 84,
-      "symbol": "0G",
-      "base": "0G",
-      "status": "active"
-    },
-    "DOLO": {
-      "market_index": 75,
-      "symbol": "DOLO",
-      "base": "DOLO",
-      "status": "active"
-    },
-    "LIT": {
-      "market_index": 120,
-      "symbol": "LIT",
-      "base": "LIT",
-      "status": "active"
-    },
     "MEGA": {
       "market_index": 94,
       "symbol": "MEGA",
@@ -1307,6 +1259,54 @@
       "market_index": 107,
       "symbol": "NZDUSD",
       "base": "NZDUSD",
+      "status": "active"
+    },
+    "BB": {
+      "market_index": 211,
+      "symbol": "BB",
+      "base": "BB",
+      "status": "active"
+    },
+    "USELESS": {
+      "market_index": 66,
+      "symbol": "USELESS",
+      "base": "USELESS",
+      "status": "active"
+    },
+    "DASH": {
+      "market_index": 127,
+      "symbol": "DASH",
+      "base": "DASH",
+      "status": "active"
+    },
+    "SPCX": {
+      "market_index": 194,
+      "symbol": "SPCX",
+      "base": "SPCX",
+      "status": "active"
+    },
+    "STRK": {
+      "market_index": 104,
+      "symbol": "STRK",
+      "base": "STRK",
+      "status": "active"
+    },
+    "0G": {
+      "market_index": 84,
+      "symbol": "0G",
+      "base": "0G",
+      "status": "active"
+    },
+    "DOLO": {
+      "market_index": 75,
+      "symbol": "DOLO",
+      "base": "DOLO",
+      "status": "active"
+    },
+    "LIT": {
+      "market_index": 120,
+      "symbol": "LIT",
+      "base": "LIT",
       "status": "active"
     }
   }
