@@ -1,6 +1,30 @@
 {
-  "timestamp": 1784765172,
+  "timestamp": 1784780478,
   "markets": {
+    "PYTH": {
+      "market_index": 78,
+      "symbol": "PYTH",
+      "base": "PYTH",
+      "status": "active"
+    },
+    "DOLO": {
+      "market_index": 75,
+      "symbol": "DOLO",
+      "base": "DOLO",
+      "status": "active"
+    },
+    "ARB": {
+      "market_index": 50,
+      "symbol": "ARB",
+      "base": "ARB",
+      "status": "active"
+    },
+    "LINK": {
+      "market_index": 8,
+      "symbol": "LINK",
+      "base": "LINK",
+      "status": "active"
+    },
     "UNI": {
       "market_index": 30,
       "symbol": "UNI",
@@ -1290,30 +1314,6 @@
       "symbol": "MKR",
       "base": "MKR",
       "status": "inactive"
-    },
-    "PYTH": {
-      "market_index": 78,
-      "symbol": "PYTH",
-      "base": "PYTH",
-      "status": "active"
-    },
-    "DOLO": {
-      "market_index": 75,
-      "symbol": "DOLO",
-      "base": "DOLO",
-      "status": "active"
-    },
-    "ARB": {
-      "market_index": 50,
-      "symbol": "ARB",
-      "base": "ARB",
-      "status": "active"
-    },
-    "LINK": {
-      "market_index": 8,
-      "symbol": "LINK",
-      "base": "LINK",
-      "status": "active"
     }
   }
 }
