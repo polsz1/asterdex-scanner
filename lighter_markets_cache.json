@@ -1,6 +1,60 @@
 {
-  "timestamp": 1786074981,
+  "timestamp": 1786081644,
   "markets": {
+    "NBIS": {
+      "market_index": 189,
+      "symbol": "NBIS",
+      "base": "NBIS",
+      "status": "active"
+    },
+    "ARM": {
+      "market_index": 206,
+      "symbol": "ARM",
+      "base": "ARM",
+      "status": "active"
+    },
+    "POPMART": {
+      "market_index": 204,
+      "symbol": "POPMART",
+      "base": "POPMART",
+      "status": "active"
+    },
+    "LINEA": {
+      "market_index": 76,
+      "symbol": "LINEA",
+      "base": "LINEA",
+      "status": "active"
+    },
+    "HANMI": {
+      "market_index": 148,
+      "symbol": "HANMI",
+      "base": "HANMI",
+      "status": "inactive"
+    },
+    "ZORA": {
+      "market_index": 53,
+      "symbol": "ZORA",
+      "base": "ZORA",
+      "status": "active"
+    },
+    "NMR": {
+      "market_index": 74,
+      "symbol": "NMR",
+      "base": "NMR",
+      "status": "active"
+    },
+    "LTC": {
+      "market_index": 35,
+      "symbol": "LTC",
+      "base": "LTC",
+      "status": "active"
+    },
+    "CAP": {
+      "market_index": 212,
+      "symbol": "CAP",
+      "base": "CAP",
+      "status": "active"
+    },
     "OP": {
       "market_index": 55,
       "symbol": "OP",
@@ -1277,60 +1331,6 @@
       "market_index": 63,
       "symbol": "MNT",
       "base": "MNT",
-      "status": "active"
-    },
-    "NBIS": {
-      "market_index": 189,
-      "symbol": "NBIS",
-      "base": "NBIS",
-      "status": "active"
-    },
-    "ARM": {
-      "market_index": 206,
-      "symbol": "ARM",
-      "base": "ARM",
-      "status": "active"
-    },
-    "POPMART": {
-      "market_index": 204,
-      "symbol": "POPMART",
-      "base": "POPMART",
-      "status": "active"
-    },
-    "LINEA": {
-      "market_index": 76,
-      "symbol": "LINEA",
-      "base": "LINEA",
-      "status": "active"
-    },
-    "HANMI": {
-      "market_index": 148,
-      "symbol": "HANMI",
-      "base": "HANMI",
-      "status": "inactive"
-    },
-    "ZORA": {
-      "market_index": 53,
-      "symbol": "ZORA",
-      "base": "ZORA",
-      "status": "active"
-    },
-    "NMR": {
-      "market_index": 74,
-      "symbol": "NMR",
-      "base": "NMR",
-      "status": "active"
-    },
-    "LTC": {
-      "market_index": 35,
-      "symbol": "LTC",
-      "base": "LTC",
-      "status": "active"
-    },
-    "CAP": {
-      "market_index": 212,
-      "symbol": "CAP",
-      "base": "CAP",
       "status": "active"
     }
   }
