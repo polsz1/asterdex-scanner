@@ -1,102 +1,6 @@
 {
-  "timestamp": 1786633525,
+  "timestamp": 1786640557,
   "markets": {
-    "BRENTOIL": {
-      "market_index": 159,
-      "symbol": "BRENTOIL",
-      "base": "BRENTOIL",
-      "status": "active"
-    },
-    "META": {
-      "market_index": 117,
-      "symbol": "META",
-      "base": "META",
-      "status": "active"
-    },
-    "HYPE": {
-      "market_index": 24,
-      "symbol": "HYPE",
-      "base": "HYPE",
-      "status": "active"
-    },
-    "BMNR": {
-      "market_index": 123,
-      "symbol": "BMNR",
-      "base": "BMNR",
-      "status": "active"
-    },
-    "COIN": {
-      "market_index": 109,
-      "symbol": "COIN",
-      "base": "COIN",
-      "status": "active"
-    },
-    "ANTHROPIC": {
-      "market_index": 193,
-      "symbol": "ANTHROPIC",
-      "base": "ANTHROPIC",
-      "status": "active"
-    },
-    "SMIC": {
-      "market_index": 202,
-      "symbol": "SMIC",
-      "base": "SMIC",
-      "status": "active"
-    },
-    "PAXG": {
-      "market_index": 48,
-      "symbol": "PAXG",
-      "base": "PAXG",
-      "status": "active"
-    },
-    "FIL": {
-      "market_index": 103,
-      "symbol": "FIL",
-      "base": "FIL",
-      "status": "active"
-    },
-    "DYDX": {
-      "market_index": 62,
-      "symbol": "DYDX",
-      "base": "DYDX",
-      "status": "active"
-    },
-    "EDGE": {
-      "market_index": 157,
-      "symbol": "EDGE",
-      "base": "EDGE",
-      "status": "active"
-    },
-    "ARC": {
-      "market_index": 132,
-      "symbol": "ARC",
-      "base": "ARC",
-      "status": "active"
-    },
-    "NATGAS": {
-      "market_index": 158,
-      "symbol": "NATGAS",
-      "base": "NATGAS",
-      "status": "active"
-    },
-    "LIT": {
-      "market_index": 120,
-      "symbol": "LIT",
-      "base": "LIT",
-      "status": "active"
-    },
-    "TAO": {
-      "market_index": 13,
-      "symbol": "TAO",
-      "base": "TAO",
-      "status": "active"
-    },
-    "YZY": {
-      "market_index": 70,
-      "symbol": "YZY",
-      "base": "YZY",
-      "status": "inactive"
-    },
     "HANMI": {
       "market_index": 148,
       "symbol": "HANMI",
@@ -137,6 +41,12 @@
       "market_index": 218,
       "symbol": "GEV",
       "base": "GEV",
+      "status": "active"
+    },
+    "KORU": {
+      "market_index": 226,
+      "symbol": "KORU",
+      "base": "KORU",
       "status": "active"
     },
     "ARB": {
@@ -359,6 +269,12 @@
       "market_index": 110,
       "symbol": "NVDA",
       "base": "NVDA",
+      "status": "active"
+    },
+    "KIOXIA": {
+      "market_index": 225,
+      "symbol": "KIOXIA",
+      "base": "KIOXIA",
       "status": "active"
     },
     "JTO": {
@@ -739,6 +655,12 @@
       "base": "MYX",
       "status": "active"
     },
+    "SOXS": {
+      "market_index": 222,
+      "symbol": "SOXS",
+      "base": "SOXS",
+      "status": "active"
+    },
     "BTC": {
       "market_index": 1,
       "symbol": "BTC",
@@ -1057,6 +979,12 @@
       "base": "WIF",
       "status": "active"
     },
+    "AXTI": {
+      "market_index": 224,
+      "symbol": "AXTI",
+      "base": "AXTI",
+      "status": "active"
+    },
     "STRC": {
       "market_index": 156,
       "symbol": "STRC",
@@ -1145,6 +1073,12 @@
       "market_index": 166,
       "symbol": "EWY",
       "base": "EWY",
+      "status": "active"
+    },
+    "WDC": {
+      "market_index": 223,
+      "symbol": "WDC",
+      "base": "WDC",
       "status": "active"
     },
     "1000TOSHI": {
@@ -1332,6 +1266,102 @@
       "symbol": "SAMSUNGUSD",
       "base": "SAMSUNGUSD",
       "status": "active"
+    },
+    "BRENTOIL": {
+      "market_index": 159,
+      "symbol": "BRENTOIL",
+      "base": "BRENTOIL",
+      "status": "active"
+    },
+    "META": {
+      "market_index": 117,
+      "symbol": "META",
+      "base": "META",
+      "status": "active"
+    },
+    "HYPE": {
+      "market_index": 24,
+      "symbol": "HYPE",
+      "base": "HYPE",
+      "status": "active"
+    },
+    "BMNR": {
+      "market_index": 123,
+      "symbol": "BMNR",
+      "base": "BMNR",
+      "status": "active"
+    },
+    "COIN": {
+      "market_index": 109,
+      "symbol": "COIN",
+      "base": "COIN",
+      "status": "active"
+    },
+    "ANTHROPIC": {
+      "market_index": 193,
+      "symbol": "ANTHROPIC",
+      "base": "ANTHROPIC",
+      "status": "active"
+    },
+    "SMIC": {
+      "market_index": 202,
+      "symbol": "SMIC",
+      "base": "SMIC",
+      "status": "active"
+    },
+    "PAXG": {
+      "market_index": 48,
+      "symbol": "PAXG",
+      "base": "PAXG",
+      "status": "active"
+    },
+    "FIL": {
+      "market_index": 103,
+      "symbol": "FIL",
+      "base": "FIL",
+      "status": "active"
+    },
+    "DYDX": {
+      "market_index": 62,
+      "symbol": "DYDX",
+      "base": "DYDX",
+      "status": "active"
+    },
+    "EDGE": {
+      "market_index": 157,
+      "symbol": "EDGE",
+      "base": "EDGE",
+      "status": "active"
+    },
+    "ARC": {
+      "market_index": 132,
+      "symbol": "ARC",
+      "base": "ARC",
+      "status": "active"
+    },
+    "NATGAS": {
+      "market_index": 158,
+      "symbol": "NATGAS",
+      "base": "NATGAS",
+      "status": "active"
+    },
+    "LIT": {
+      "market_index": 120,
+      "symbol": "LIT",
+      "base": "LIT",
+      "status": "active"
+    },
+    "TAO": {
+      "market_index": 13,
+      "symbol": "TAO",
+      "base": "TAO",
+      "status": "active"
+    },
+    "YZY": {
+      "market_index": 70,
+      "symbol": "YZY",
+      "base": "YZY",
+      "status": "inactive"
     }
   }
 }
