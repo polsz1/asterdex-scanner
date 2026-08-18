@@ -1,18 +1,6 @@
 {
-  "timestamp": 1787022160,
+  "timestamp": 1787028180,
   "markets": {
-    "APEX": {
-      "market_index": 86,
-      "symbol": "APEX",
-      "base": "APEX",
-      "status": "active"
-    },
-    "STABLE": {
-      "market_index": 118,
-      "symbol": "STABLE",
-      "base": "STABLE",
-      "status": "active"
-    },
     "ADI": {
       "market_index": 213,
       "symbol": "ADI",
@@ -1361,6 +1349,18 @@
       "market_index": 184,
       "symbol": "RAIL",
       "base": "RAIL",
+      "status": "active"
+    },
+    "APEX": {
+      "market_index": 86,
+      "symbol": "APEX",
+      "base": "APEX",
+      "status": "active"
+    },
+    "STABLE": {
+      "market_index": 118,
+      "symbol": "STABLE",
+      "base": "STABLE",
       "status": "active"
     }
   }
