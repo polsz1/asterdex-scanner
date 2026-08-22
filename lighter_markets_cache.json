@@ -1,6 +1,84 @@
 {
-  "timestamp": 1787412729,
+  "timestamp": 1787416445,
   "markets": {
+    "AMD": {
+      "market_index": 138,
+      "symbol": "AMD",
+      "base": "AMD",
+      "status": "active"
+    },
+    "WLFI": {
+      "market_index": 72,
+      "symbol": "WLFI",
+      "base": "WLFI",
+      "status": "active"
+    },
+    "AERO": {
+      "market_index": 65,
+      "symbol": "AERO",
+      "base": "AERO",
+      "status": "active"
+    },
+    "MRNA": {
+      "market_index": 228,
+      "symbol": "MRNA",
+      "base": "MRNA",
+      "status": "active"
+    },
+    "LDO": {
+      "market_index": 46,
+      "symbol": "LDO",
+      "base": "LDO",
+      "status": "active"
+    },
+    "XPD": {
+      "market_index": 146,
+      "symbol": "XPD",
+      "base": "XPD",
+      "status": "active"
+    },
+    "1000FLOKI": {
+      "market_index": 19,
+      "symbol": "1000FLOKI",
+      "base": "1000FLOKI",
+      "status": "active"
+    },
+    "LITE": {
+      "market_index": 178,
+      "symbol": "LITE",
+      "base": "LITE",
+      "status": "active"
+    },
+    "AVGO": {
+      "market_index": 210,
+      "symbol": "AVGO",
+      "base": "AVGO",
+      "status": "active"
+    },
+    "VIRTUAL": {
+      "market_index": 41,
+      "symbol": "VIRTUAL",
+      "base": "VIRTUAL",
+      "status": "active"
+    },
+    "SPCX": {
+      "market_index": 194,
+      "symbol": "SPCX",
+      "base": "SPCX",
+      "status": "active"
+    },
+    "USDHKD": {
+      "market_index": 198,
+      "symbol": "USDHKD",
+      "base": "USDHKD",
+      "status": "active"
+    },
+    "ETHFI": {
+      "market_index": 64,
+      "symbol": "ETHFI",
+      "base": "ETHFI",
+      "status": "active"
+    },
     "EIGEN": {
       "market_index": 49,
       "symbol": "EIGEN",
@@ -1295,84 +1373,6 @@
       "market_index": 6,
       "symbol": "WLD",
       "base": "WLD",
-      "status": "active"
-    },
-    "AMD": {
-      "market_index": 138,
-      "symbol": "AMD",
-      "base": "AMD",
-      "status": "active"
-    },
-    "WLFI": {
-      "market_index": 72,
-      "symbol": "WLFI",
-      "base": "WLFI",
-      "status": "active"
-    },
-    "AERO": {
-      "market_index": 65,
-      "symbol": "AERO",
-      "base": "AERO",
-      "status": "active"
-    },
-    "MRNA": {
-      "market_index": 228,
-      "symbol": "MRNA",
-      "base": "MRNA",
-      "status": "active"
-    },
-    "LDO": {
-      "market_index": 46,
-      "symbol": "LDO",
-      "base": "LDO",
-      "status": "active"
-    },
-    "XPD": {
-      "market_index": 146,
-      "symbol": "XPD",
-      "base": "XPD",
-      "status": "active"
-    },
-    "1000FLOKI": {
-      "market_index": 19,
-      "symbol": "1000FLOKI",
-      "base": "1000FLOKI",
-      "status": "active"
-    },
-    "LITE": {
-      "market_index": 178,
-      "symbol": "LITE",
-      "base": "LITE",
-      "status": "active"
-    },
-    "AVGO": {
-      "market_index": 210,
-      "symbol": "AVGO",
-      "base": "AVGO",
-      "status": "active"
-    },
-    "VIRTUAL": {
-      "market_index": 41,
-      "symbol": "VIRTUAL",
-      "base": "VIRTUAL",
-      "status": "active"
-    },
-    "SPCX": {
-      "market_index": 194,
-      "symbol": "SPCX",
-      "base": "SPCX",
-      "status": "active"
-    },
-    "USDHKD": {
-      "market_index": 198,
-      "symbol": "USDHKD",
-      "base": "USDHKD",
-      "status": "active"
-    },
-    "ETHFI": {
-      "market_index": 64,
-      "symbol": "ETHFI",
-      "base": "ETHFI",
       "status": "active"
     }
   }
