@@ -1,6 +1,72 @@
 {
-  "timestamp": 1788543281,
+  "timestamp": 1788554141,
   "markets": {
+    "OPENAI": {
+      "market_index": 192,
+      "symbol": "OPENAI",
+      "base": "OPENAI",
+      "status": "active"
+    },
+    "ZK": {
+      "market_index": 56,
+      "symbol": "ZK",
+      "base": "ZK",
+      "status": "active"
+    },
+    "IBM": {
+      "market_index": 188,
+      "symbol": "IBM",
+      "base": "IBM",
+      "status": "active"
+    },
+    "ETHFI": {
+      "market_index": 64,
+      "symbol": "ETHFI",
+      "base": "ETHFI",
+      "status": "active"
+    },
+    "PUMP": {
+      "market_index": 45,
+      "symbol": "PUMP",
+      "base": "PUMP",
+      "status": "active"
+    },
+    "MAGS": {
+      "market_index": 155,
+      "symbol": "MAGS",
+      "base": "MAGS",
+      "status": "inactive"
+    },
+    "TAO": {
+      "market_index": 13,
+      "symbol": "TAO",
+      "base": "TAO",
+      "status": "active"
+    },
+    "EWY": {
+      "market_index": 166,
+      "symbol": "EWY",
+      "base": "EWY",
+      "status": "active"
+    },
+    "NOW": {
+      "market_index": 191,
+      "symbol": "NOW",
+      "base": "NOW",
+      "status": "active"
+    },
+    "URA": {
+      "market_index": 150,
+      "symbol": "URA",
+      "base": "URA",
+      "status": "active"
+    },
+    "NMR": {
+      "market_index": 74,
+      "symbol": "NMR",
+      "base": "NMR",
+      "status": "active"
+    },
     "XAU": {
       "market_index": 92,
       "symbol": "XAU",
@@ -1331,72 +1397,6 @@
       "market_index": 49,
       "symbol": "EIGEN",
       "base": "EIGEN",
-      "status": "active"
-    },
-    "OPENAI": {
-      "market_index": 192,
-      "symbol": "OPENAI",
-      "base": "OPENAI",
-      "status": "active"
-    },
-    "ZK": {
-      "market_index": 56,
-      "symbol": "ZK",
-      "base": "ZK",
-      "status": "active"
-    },
-    "IBM": {
-      "market_index": 188,
-      "symbol": "IBM",
-      "base": "IBM",
-      "status": "active"
-    },
-    "ETHFI": {
-      "market_index": 64,
-      "symbol": "ETHFI",
-      "base": "ETHFI",
-      "status": "active"
-    },
-    "PUMP": {
-      "market_index": 45,
-      "symbol": "PUMP",
-      "base": "PUMP",
-      "status": "active"
-    },
-    "MAGS": {
-      "market_index": 155,
-      "symbol": "MAGS",
-      "base": "MAGS",
-      "status": "inactive"
-    },
-    "TAO": {
-      "market_index": 13,
-      "symbol": "TAO",
-      "base": "TAO",
-      "status": "active"
-    },
-    "EWY": {
-      "market_index": 166,
-      "symbol": "EWY",
-      "base": "EWY",
-      "status": "active"
-    },
-    "NOW": {
-      "market_index": 191,
-      "symbol": "NOW",
-      "base": "NOW",
-      "status": "active"
-    },
-    "URA": {
-      "market_index": 150,
-      "symbol": "URA",
-      "base": "URA",
-      "status": "active"
-    },
-    "NMR": {
-      "market_index": 74,
-      "symbol": "NMR",
-      "base": "NMR",
       "status": "active"
     }
   }
